@@ -22,19 +22,19 @@
 
 **DISTRIBUTED SYSTEMS**
 <br/>
-<sub>Go · Kubernetes · gRPC · Service Discovery</sub>
+<sub>Go · Kubernetes · gRPC</sub>
 
 <br/><br/>
 
 **INFERENCE SERVING**
 <br/>
-<sub>vLLM · Prefix-Cache Routing · Envoy · Endpoint Picker</sub>
+<sub>vLLM · SGLang · P/D Disaggregation · KV-Cache Routing</sub>
 
 <br/><br/>
 
 **GPU-AWARE INFRASTRUCTURE**
 <br/>
-<sub>GPU Scheduling · Multi-Tenant Serving · Autoscaling</sub>
+<sub>NCCL · NVLink · Tensor Parallelism · GPU Profiling</sub>
 
 </div>
 
