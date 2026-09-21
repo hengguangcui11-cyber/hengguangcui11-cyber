@@ -69,6 +69,10 @@
 
 <sub><i>一切有为法，如梦幻泡影，如露亦如电，应作如是观。</i></sub>
 <br/>
-<sub><i>—— 《金刚经》</i></sub>
+<sub><i>All conditioned phenomena are like a dream, an illusion, a bubble, a shadow, like dew or a flash of lightning; thus should one view them.</i></sub>
+<br/>
+<sub><i>tadyathā ākāśe tārakā timiraṃ dīpo māyāvaśyāya budbudam, svapnaṃ ca vidyudabhraṃ ca, evaṃ draṣṭavyaṃ saṃskṛtam</i></sub>
+<br/>
+<sub>—— 《金刚经》</sub>
 
 </div>
