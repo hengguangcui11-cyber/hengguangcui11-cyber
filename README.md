@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<sub><i>一切有为法，如梦幻泡影，如露亦如电，应作如是观。</i></sub>
+<sub><i>“一切有为法，如梦幻泡影，如露亦如电，应作如是观。”</i></sub>
 <br/>
 <sub><i>All conditioned phenomena are like a dream, an illusion, a bubble, a shadow, like dew or a flash of lightning; thus should one view them.</i></sub>
 <br/>
