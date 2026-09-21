@@ -20,21 +20,15 @@
 
 <div align="center">
 
-**DISTRIBUTED SYSTEMS**
-<br/>
-<sub>Go · Kubernetes · gRPC</sub>
-
-<br/><br/>
-
-**INFERENCE SERVING**
-<br/>
-<sub>vLLM · SGLang · P/D Disaggregation · KV-Cache Routing</sub>
-
-<br/><br/>
-
-**GPU-AWARE INFRASTRUCTURE**
-<br/>
-<sub>NCCL · NVLink · Tensor Parallelism · GPU Profiling</sub>
+![GO](https://img.shields.io/badge/GO-000000?style=flat-square&logo=go&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
+![SCALA](https://img.shields.io/badge/SCALA-000000?style=flat-square&logo=scala&logoColor=white)
+![KUBERNETES](https://img.shields.io/badge/KUBERNETES-000000?style=flat-square&logo=kubernetes&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-000000?style=flat-square&logo=pytorch&logoColor=white)
+![PROMETHEUS](https://img.shields.io/badge/PROMETHEUS-000000?style=flat-square&logo=prometheus&logoColor=white)
+![GRAFANA](https://img.shields.io/badge/GRAFANA-000000?style=flat-square&logo=grafana&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
 
