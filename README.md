@@ -1,28 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=54&duration=3000&pause=100000&color=ffffff&center=true&vCenter=true&width=700&height=80&lines=HENGGUANG+CUI&repeat=false" />
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=54&duration=3000&pause=100000&color=000000&center=true&vCenter=true&width=700&height=80&lines=HENGGUANG+CUI&repeat=false" alt="Hengguang Cui" />
-</picture>
+**Inferencing systems. Agent gateway platforms.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Oswald&size=18&pause=1200&color=ffffff&center=true&vCenter=true&width=650&height=30&lines=INFERENCING+SYSTEMS;AGENT+GATEWAY+PLATFORM;GO+%2F+KUBERNETES+%2F+PYTHON" />
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=18&pause=1200&color=000000&center=true&vCenter=true&width=650&height=30&lines=INFERENCING+SYSTEMS;AGENT+GATEWAY+PLATFORM;GO+%2F+KUBERNETES+%2F+PYTHON" alt="tagline" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-Inferencing systems and the agent gateway platform.
-<br/>
-Distributed systems, request routing, platform reliability.
+*Distributed systems — request routing — platform reliability.*
 
 </div>
 
