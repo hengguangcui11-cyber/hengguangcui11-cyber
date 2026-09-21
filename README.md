@@ -6,8 +6,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-line-dark.svg" />
-  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-line-light.svg" alt="Bernese Mountain Dog line drawing" width="280" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/dog-icon-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/dog-icon-light.svg" alt="dog icon" width="72" />
 </picture>
 
 **Inferencing systems. Agent gateway platforms.**
