@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/line-dark.svg" />
-  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/line-light.svg" alt="" width="320" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=Hello+World" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=000000&center=true&vCenter=true&width=400&height=50&lines=Hello+World" alt="Hello World" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=Hello+World" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=000000&center=true&vCenter=true&width=400&height=50&lines=Hello+World" alt="Hello World" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-line-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-line-light.svg" alt="Bernese Mountain Dog line drawing" width="280" />
 </picture>
 
 **Inferencing systems. Agent gateway platforms.**
@@ -47,21 +47,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/output/snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/output/snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-dark.png" />
-  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-light.png" alt="Bernese Mountain Dog sketch" width="220" />
 </picture>
 
 </div>
