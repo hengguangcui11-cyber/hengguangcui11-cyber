@@ -20,14 +20,21 @@
 
 <div align="center">
 
-![GO](https://img.shields.io/badge/GO-000000?style=flat-square&logo=go&logoColor=white)
-![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
-![KUBERNETES](https://img.shields.io/badge/KUBERNETES-000000?style=flat-square&logo=kubernetes&logoColor=white)
-![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white)
-![LINUX](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=white)
-![AIRFLOW](https://img.shields.io/badge/AIRFLOW-000000?style=flat-square&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square)
-![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white)
+**DISTRIBUTED SYSTEMS**
+<br/>
+<sub>Go · Kubernetes · gRPC · Service Discovery</sub>
+
+<br/><br/>
+
+**INFERENCE SERVING**
+<br/>
+<sub>vLLM · Prefix-Cache Routing · Envoy · Endpoint Picker</sub>
+
+<br/><br/>
+
+**GPU-AWARE INFRASTRUCTURE**
+<br/>
+<sub>GPU Scheduling · Multi-Tenant Serving · Autoscaling</sub>
 
 </div>
 
