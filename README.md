@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/paw-icon-light.svg" alt="paw print icon" width="60" />
 </picture>
 
-**LLM Inferencing & Agent platforms.**
+**Building infrastructure for LLM inferencing & agent platforms.**
 
 
 
