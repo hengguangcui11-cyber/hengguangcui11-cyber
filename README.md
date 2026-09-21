@@ -7,7 +7,7 @@
 
 **Inferencing systems. Agent gateway platforms.**
 
-*Distributed systems — request routing — platform reliability.*
+
 
 </div>
 
