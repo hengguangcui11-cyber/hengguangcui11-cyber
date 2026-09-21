@@ -55,6 +55,21 @@
 
 ---
 
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-dark.png" />
+  <img src="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/bernese-light.png" alt="Bernese Mountain Dog sketch" width="220" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hengguang-cui-758224174/)
