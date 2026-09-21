@@ -58,3 +58,17 @@
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengguangcui11@gmail.com)
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub><i>一切有为法，如梦幻泡影，如露亦如电，应作如是观。</i></sub>
+<br/>
+<sub><i>—— 《金刚经》</i></sub>
+
+</div>
