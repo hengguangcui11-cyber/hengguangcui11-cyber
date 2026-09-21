@@ -1,6 +1,5 @@
 <div align="center">
 
-`Hello World`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hengguangcui11-cyber/hengguangcui11-cyber/main/assets/paw-icon-dark.svg" />
