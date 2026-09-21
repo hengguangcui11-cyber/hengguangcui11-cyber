@@ -52,17 +52,6 @@
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hengguang-cui-758224174/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hengguangcui11@gmail.com)
-
-</div>
-
-<br/>
-
----
-
 <br/>
 
 <div align="center">
