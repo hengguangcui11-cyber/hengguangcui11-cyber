@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1e3c72&height=220&section=header&text=Hengguang%20Cui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Infra%20%26%20Platform%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1e3c72&height=220&section=header&text=Hengguang%20Cui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Infra%20%2F%20Platform%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+AI+Infra+%26+Platform+systems;Inferencing+%2B+Agent+Gateway+Platform;Go+%7C+Kubernetes+%7C+Distributed+Systems" alt="Typing SVG" />
 
@@ -19,16 +19,7 @@ I work on **inferencing systems and the agent gateway platform** — the infrast
 ### Tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=go,py,kubernetes,docker,linux,aws,git,github&theme=dark" />
-</div>
-
-<br/>
-
-### GitHub stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hengguangcui11-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=hengguangcui11-cyber&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=go,py,kubernetes,docker,linux,aws,airflow,github&theme=dark" />
 </div>
 
 <br/>
