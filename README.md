@@ -24,6 +24,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white)
 ![SCALA](https://img.shields.io/badge/SCALA-000000?style=flat-square&logo=scala&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-000000?style=flat-square&logo=kubernetes&logoColor=white)
+![HELM](https://img.shields.io/badge/HELM-000000?style=flat-square&logo=helm&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white)
 ![VLLM](https://img.shields.io/badge/VLLM-000000?style=flat-square&logo=vllm&logoColor=white)
 ![REDIS](https://img.shields.io/badge/REDIS-000000?style=flat-square&logo=redis&logoColor=white)
